@@ -37,8 +37,6 @@ body {
 .left {
     flex:1;
     /*order: 2; /* changes order of the box*/
-    width:200px;
-    height: 200px;
 }
 .right {
     flex: 2; /*adjusts width - 2, 3, 4 - bigger... */
@@ -121,4 +119,9 @@ i {
     height: 100px; 
     margin: 0 2em 0 0;  
     justify-contennt: space around; 
+}
+
+img {
+    width:200px;
+    height: 200px;
 }
