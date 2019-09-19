@@ -88,6 +88,7 @@ button {
     margin-right: auto; 
     border: 5px solid rgb(228, 220, 220); 
     width: 150px; 
+    height: 150px;
     text-decoration: none; 
 }
 
