@@ -37,6 +37,8 @@ body {
 .left {
     flex:1;
     /*order: 2; /* changes order of the box*/
+    width:200px;
+    height: 200px;
 }
 .right {
     flex: 2; /*adjusts width - 2, 3, 4 - bigger... */
